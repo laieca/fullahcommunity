@@ -136,7 +136,7 @@ input[type=submit]:hover {
 
 .flip-box-back {
   background-color: dodgerblue;
-  color: white;
+  color: #fff;
   transform: rotateX(180deg);
 }
 
