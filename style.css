@@ -104,7 +104,7 @@ a:is(:link, :active, :visited).active{
 
 /*   Image hero*/
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/laieca5.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/laieca7.png");
   height:50vh;
   width: 100%;
  overflow: hidden;
