@@ -140,7 +140,7 @@ input[type=submit]:hover {
 /*flip box*/
 
 .flip-box {
-  background-color: transparent;
+  background-color: dodgerblue;
   width:100%;
   height: 200px;
   border: 1px solid #f1f1f1;
