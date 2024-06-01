@@ -131,7 +131,7 @@ input[type=submit]:hover {
 
 .flip-box-front {
   background-color: dodgerblue;
-  color: black;
+  color:#fff;
 }
 
 .flip-box-back {
