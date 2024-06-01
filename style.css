@@ -90,6 +90,8 @@ a:is(:link, :active, :visited).active{
   height:150px;
   width:100%;
   padding-top: 3px;
+  border-radius:10px;
+  
 }
 
 @keyframes glow {
